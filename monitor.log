@@ -1,100 +1,800 @@
-Script Execution Time: 112.81 seconds Mappers: 1 Reducers: 1
-Script Execution Time: 104.72 seconds Mappers: 1 Reducers: 2
-Script Execution Time: 96.58 seconds Mappers: 1 Reducers: 3
-Script Execution Time: 96.76 seconds Mappers: 1 Reducers: 4
-Script Execution Time: 101.76 seconds Mappers: 1 Reducers: 5
-Script Execution Time: 97.81 seconds Mappers: 1 Reducers: 6
-Script Execution Time: 90.84 seconds Mappers: 1 Reducers: 7
-Script Execution Time: 95.78 seconds Mappers: 1 Reducers: 8
-Script Execution Time: 92.52 seconds Mappers: 1 Reducers: 9
-Script Execution Time: 95.58 seconds Mappers: 1 Reducers: 10
-Script Execution Time: 78.56 seconds Mappers: 2 Reducers: 1
-Script Execution Time: 69.50 seconds Mappers: 2 Reducers: 2
-Script Execution Time: 66.62 seconds Mappers: 2 Reducers: 3
-Script Execution Time: 63.36 seconds Mappers: 2 Reducers: 4
-Script Execution Time: 66.59 seconds Mappers: 2 Reducers: 5
-Script Execution Time: 64.52 seconds Mappers: 2 Reducers: 6
-Script Execution Time: 61.52 seconds Mappers: 2 Reducers: 7
-Script Execution Time: 64.72 seconds Mappers: 2 Reducers: 8
-Script Execution Time: 61.51 seconds Mappers: 2 Reducers: 9
-Script Execution Time: 64.46 seconds Mappers: 2 Reducers: 10
-Script Execution Time: 68.47 seconds Mappers: 3 Reducers: 1
-Script Execution Time: 61.51 seconds Mappers: 3 Reducers: 2
-Script Execution Time: 55.48 seconds Mappers: 3 Reducers: 3
-Script Execution Time: 55.50 seconds Mappers: 3 Reducers: 4
-Script Execution Time: 52.43 seconds Mappers: 3 Reducers: 5
-Script Execution Time: 51.37 seconds Mappers: 3 Reducers: 6
-Script Execution Time: 51.54 seconds Mappers: 3 Reducers: 7
-Script Execution Time: 51.51 seconds Mappers: 3 Reducers: 8
-Script Execution Time: 49.43 seconds Mappers: 3 Reducers: 9
-Script Execution Time: 53.46 seconds Mappers: 3 Reducers: 10
-Script Execution Time: 63.36 seconds Mappers: 4 Reducers: 1
-Script Execution Time: 52.53 seconds Mappers: 4 Reducers: 2
-Script Execution Time: 49.46 seconds Mappers: 4 Reducers: 3
-Script Execution Time: 314.48 seconds Mappers: 4 Reducers: 4
-Script Execution Time: 89.89 seconds Mappers: 4 Reducers: 5
-Script Execution Time: 77.73 seconds Mappers: 4 Reducers: 6
-Script Execution Time: 78.76 seconds Mappers: 4 Reducers: 7
-Script Execution Time: 60.33 seconds Mappers: 4 Reducers: 8
-Script Execution Time: 56.76 seconds Mappers: 4 Reducers: 9
-Script Execution Time: 60.00 seconds Mappers: 4 Reducers: 10
-Script Execution Time: 66.37 seconds Mappers: 5 Reducers: 1
-Script Execution Time: 49.44 seconds Mappers: 5 Reducers: 2
-Script Execution Time: 44.27 seconds Mappers: 5 Reducers: 3
-Script Execution Time: 44.46 seconds Mappers: 5 Reducers: 4
-Script Execution Time: 44.39 seconds Mappers: 5 Reducers: 5
-Script Execution Time: 43.28 seconds Mappers: 5 Reducers: 6
-Script Execution Time: 42.39 seconds Mappers: 5 Reducers: 7
-Script Execution Time: 41.47 seconds Mappers: 5 Reducers: 8
-Script Execution Time: 45.34 seconds Mappers: 5 Reducers: 9
-Script Execution Time: 44.60 seconds Mappers: 5 Reducers: 10
-Script Execution Time: 57.65 seconds Mappers: 6 Reducers: 1
-Script Execution Time: 46.49 seconds Mappers: 6 Reducers: 2
-Script Execution Time: 42.49 seconds Mappers: 6 Reducers: 3
-Script Execution Time: 40.42 seconds Mappers: 6 Reducers: 4
-Script Execution Time: 41.38 seconds Mappers: 6 Reducers: 5
-Script Execution Time: 41.19 seconds Mappers: 6 Reducers: 6
-Script Execution Time: 39.41 seconds Mappers: 6 Reducers: 7
-Script Execution Time: 40.35 seconds Mappers: 6 Reducers: 8
-Script Execution Time: 45.38 seconds Mappers: 6 Reducers: 9
-Script Execution Time: 43.32 seconds Mappers: 6 Reducers: 10
-Script Execution Time: 56.31 seconds Mappers: 7 Reducers: 1
-Script Execution Time: 43.48 seconds Mappers: 7 Reducers: 2
-Script Execution Time: 42.32 seconds Mappers: 7 Reducers: 3
-Script Execution Time: 41.31 seconds Mappers: 7 Reducers: 4
-Script Execution Time: 40.43 seconds Mappers: 7 Reducers: 5
-Script Execution Time: 39.44 seconds Mappers: 7 Reducers: 6
-Script Execution Time: 38.58 seconds Mappers: 7 Reducers: 7
-Script Execution Time: 38.44 seconds Mappers: 7 Reducers: 8
-Script Execution Time: 42.33 seconds Mappers: 7 Reducers: 9
-Script Execution Time: 40.34 seconds Mappers: 7 Reducers: 10
-Script Execution Time: 55.63 seconds Mappers: 8 Reducers: 1
-Script Execution Time: 42.42 seconds Mappers: 8 Reducers: 2
-Script Execution Time: 39.38 seconds Mappers: 8 Reducers: 3
-Script Execution Time: 37.34 seconds Mappers: 8 Reducers: 4
-Script Execution Time: 38.22 seconds Mappers: 8 Reducers: 5
-Script Execution Time: 35.25 seconds Mappers: 8 Reducers: 6
-Script Execution Time: 37.32 seconds Mappers: 8 Reducers: 7
-Script Execution Time: 38.62 seconds Mappers: 8 Reducers: 8
-Script Execution Time: 41.27 seconds Mappers: 8 Reducers: 9
-Script Execution Time: 40.34 seconds Mappers: 8 Reducers: 10
-Script Execution Time: 51.45 seconds Mappers: 9 Reducers: 1
-Script Execution Time: 41.33 seconds Mappers: 9 Reducers: 2
-Script Execution Time: 38.42 seconds Mappers: 9 Reducers: 3
-Script Execution Time: 39.47 seconds Mappers: 9 Reducers: 4
-Script Execution Time: 35.43 seconds Mappers: 9 Reducers: 5
-Script Execution Time: 35.36 seconds Mappers: 9 Reducers: 6
-Script Execution Time: 36.42 seconds Mappers: 9 Reducers: 7
-Script Execution Time: 37.41 seconds Mappers: 9 Reducers: 8
-Script Execution Time: 40.42 seconds Mappers: 9 Reducers: 9
-Script Execution Time: 38.14 seconds Mappers: 9 Reducers: 10
-Script Execution Time: 52.67 seconds Mappers: 10 Reducers: 1
-Script Execution Time: 41.28 seconds Mappers: 10 Reducers: 2
-Script Execution Time: 38.34 seconds Mappers: 10 Reducers: 3
-Script Execution Time: 36.29 seconds Mappers: 10 Reducers: 4
-Script Execution Time: 37.36 seconds Mappers: 10 Reducers: 5
-Script Execution Time: 34.28 seconds Mappers: 10 Reducers: 6
-Script Execution Time: 35.37 seconds Mappers: 10 Reducers: 7
-Script Execution Time: 36.44 seconds Mappers: 10 Reducers: 8
-Script Execution Time: 39.56 seconds Mappers: 10 Reducers: 9
-Script Execution Time: 39.35 seconds Mappers: 10 Reducers: 10
+Script Execution Time:  Mappers: 1 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 1 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 1 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 2 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 2 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 3 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 3 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 4 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 4 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 5 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 5 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 6 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 6 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 7 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 7 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 8 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 8 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 9 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 9 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 10 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 10 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 11 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 11 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 12 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 12 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 13 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 13 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 14 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 14 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 15 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 15 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 16 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 16 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 17 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 17 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 18 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 18 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 19 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 19 Reducers: 20 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 1 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 1 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 2 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 2 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 3 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 3 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 4 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 4 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 5 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 5 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 6 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 6 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 7 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 7 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 8 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 8 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 9 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 9 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 10 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 10 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 11 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 11 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 12 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 12 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 13 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 13 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 14 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 14 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 15 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 15 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 16 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 16 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 17 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 17 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 18 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 18 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 19 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 19 Map File used: mapperwithreducer.py
+Script Execution Time:  Mappers: 20 Reducers: 20 Map File used: mapper.py
+Script Execution Time:  Mappers: 20 Reducers: 20 Map File used: mapperwithreducer.py
