@@ -8,11 +8,12 @@ f = open("sample.txt", "r")
 
 words = f.read()
 
-w = open("prac.txt", "w+")
+w = open("largeprac.txt", "w+")
 
-for i in range(100):
+for i in range(10000):
     w.write(words)
     print(i)
 
 w.close()
+f.close()
 print("done!")
